@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kartik gupta!
-- 👀 <JavaScript/>
+- 
 - 
 
 <!---
