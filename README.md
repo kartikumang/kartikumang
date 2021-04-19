@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kartikumang
-- 👀 I’m interested in web-development
-- 🌱 I’m currently learning ReactJS
+- 👋 Hi, I’m @kartik gupta!
+- 👀 <JavaScript/>
+- 
 
 <!---
 kartikumang/kartikumang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
